@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ben Bogart
+
+Data Scientist, Machine Learning Engineer & Towards Data Science Contributor | Research based data visualization and modeling to save the planet.
+
 
 <!--
 **benbogart/benbogart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
