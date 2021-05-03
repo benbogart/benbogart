@@ -48,7 +48,7 @@ Here are a couple highlights
 ✨✨✨✨✨
 
 ## 📇 Contact Info:
-[LinkedIn](https://linkedin.com/in/benbogart)
-ben@benbogart.com
-(812) 276-3346
+* [LinkedIn](https://linkedin.com/in/benbogart)
+* ben@benbogart.com
+* (812) 276-3346
 
