@@ -4,15 +4,22 @@
 
 ## 👨‍💻 About me
 
-Data Scientist, Machine Learning Engineer & Towards Data Science Contributor | Research based data visualization and modeling to save the planet.
+**Data Scientist, Machine Learning Engineer & Towards Data Science Contributor | Research based data visualization and modeling to save the planet.**
 
-Musician by day. Data Scientist and Machine Learning Engineer by night. Climate Activist always.
+Do you love data? **I do**…. shh.
 
-In 20 years as a musician and a nonprofit administrator I’ve worn a lot of hats, only one still fits. I’ve run advertising campaigns that landed me on the billboard charts. I started an online music school in 2007 bringing tango music instruction to over 150 students. I’ve toured the world playing music and promoting climate action. I was an award winner in the 2015 Stowe International Bandoneón Competition. Those experiences have all taught me that my true passion is data.
+I have spent the last 20 years as a professional musician. I’m starting to think of this “day job” playing music, not as my true identity but, as my Clark-Kent-like alter-ego.
 
-For me, everything is about affecting change. As a musicianI leverage my music audience for tangible climate action. I spend my nights using TensorFlow and sklearn to build models to classify bird vocalizations, categorize waste images for recycling, or to determine which advertisements are performing best. I now realize that data is an even more powerful tool for me to affect change than being on stage.
+It’s a good cover and I enjoy it. My alter-ego has won performance awards and charted on the Billboard World Music chart. I tour the world playing Argentine Tango and inspiring audiences to take tangible action in the fight against climate change and I serve as President of a nonprofit organization that strives to make the world a better place one tango at a time.
 
-After spending my life building communities of musicians, teachers, volunteers, and students, it's now time for me to join a team that values intentional interaction, productivity, humanity, and science to create tangible change.
+But nearly all of this was made possible by my ability to interact with data, not by the years I spent in Argentina or in school learning to play tango music.
+
+It's only now that I am realizing my true identity is: Data Scientist. (What do you think of “TensorFlow” as my superhero name?) 
+While I do not travel the world as a data scientist, I’ve learned that it is far more powerful at affecting change than playing music. I’ve used machine learning with TensorFlow and sklearn to leverage data to do everything from budgeting performances, to classifying bird vocalizations, categorizing waste images for recycling, and determining which advertisements will perform best. I have limitless ideas for what to build next and how it can help the world.
+
+After spending my life building communities of musicians, teachers, volunteers, and students, it's now time for me to join a team that values intentional interaction, productivity, humanity, and science to motivate meaningful change.
+
+I am open to work in Data Science, Machine Learning, Data Engineering, or Analytics in programs that contribute to making the world a better place, in particular teams that directly or indirectly contribute to humanity’s pivot to carbon neutrality. If you think I’d be a good fit for your time I’d love to chat with you. Contact me at [ben@benbogart.com](mailto:ben@benbogart.com).
 
 ## 🖋️ Blog
 
