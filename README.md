@@ -2,30 +2,31 @@
 
 # Ben Bogart
 
+
 ## 👨‍💻 About me
 
-**Data Scientist, Machine Learning Engineer**
+**Director of Data Science & Engineering @ Komaza Forestry**
 
-I love data and I love this planet. My passion is climate change mitigation and Data Science/Machine Learning and Music are my tools.
+I love data and I love this planet. My passion is climate change mitigation, and Data Science is my Toolkit.
 
-I am currently working on a temporary project at Predict Health where we use data to make health insurance better.
+I am currently working as Director of Data Science & Engineering at [Komaza Forestry](https://komaza.com/) working to uplift farmers out of poverty while capturing as much carbon as possible in the process.
 
-I am open to work in Data Science or Machine Learning as part of programs that contribute to making the world a better place, in particular teams that directly or indirectly contribute to humanity’s pivot to carbon neutrality. If you think I’d be a good fit for your time I’d love to chat with you. Contact me at [ben@benbogart.com](mailto:ben@benbogart.com).
+Contact me at [ben@benbogart.com](mailto:ben@benbogart.com).
 
 ## 🖋️ Blog
 
 I am a contributing writer for [Towards Data Science](https://towardsdatascience.com/), [Analytics Vidhya](https://medium.com/analytics-vidhya) and [The Startup](https://medium.com/swlh) on Medium.  You can find my latest at [benbogart.medium.com](https://benbogart.medium.com)
 
-Here are a couple highlights
+Here are a few highlights
 
 * [Deploying a Docker container with ECS and Fargate.](https://towardsdatascience.com/deploying-a-docker-container-with-ecs-and-fargate-7b0cbc9cd608) A guide to deployment on Amazon ECS including a guide to the necessary IAM Permissions
 
 * [Train on Cloud GPUs with Azure Machine Learning SDK for Python](https://towardsdatascience.com/train-on-cloud-gpus-with-azure-machine-learning-sdk-for-python-967c99418df1)
-  A getting started guide to running Machine Learning Models on GPU powered compute instances in the Azure Machine Learning Studio cloud
+  A getting started guide to running Machine Learning Models on GPU powered compute instances in the Azure Machine Learning Studio cloud.
 * [Basic Animation with Matplotlib and Plotly](https://towardsdatascience.com/basic-animation-with-matplotlib-and-plotly-5eef4ad6c5aa).
-  The shortest path to simple animation with the most popular plotting libraries for python.
+  The shortest path to simple animation with the most popular plotting libraries for Python.
 
-# 📈 Featured Data Science Projects
+# 📈 Featured (Public) Data Science Projects
 
 * ### [Bird Vocalization Classification](https://github.com/benbogart/bird_vocalization_classification) [with [heroku dashboard](https://bird-vocalization.herokuapp.com/)] - A TensorFlow based Bird Vocalization Classifier which predicts bird species from recordings.
 
