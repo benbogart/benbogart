@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About me
 
-**Director of Data Science & Engineering @ Komaza Forestry**
+**Director of Data Enablement @ Carbon Direct**
 
 I love data and I love this planet. My passion is climate change mitigation, and Data Science is my Toolkit.
 
-I am currently working as Director of Data Science & Engineering at [Komaza Forestry](https://komaza.com/) working to uplift farmers out of poverty while capturing as much carbon as possible in the process.
+I am currently working as Director of Data Enablement at [Carbon Direct](https://www.carbon-direct.com/), building tools to support accurate and efficient reviews of carbon projects.
 
 Contact me at [ben@benbogart.com](mailto:ben@benbogart.com).
 
