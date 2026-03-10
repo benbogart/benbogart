@@ -10,7 +10,7 @@ Looking for: founding engineer roles at AI startups, and director-level engineer
 
 ## What I'm Building
 
-**AI agent system for knowledge work** — A personal software factory: orchestrated AI agents that handle research, product thinking, writing, and task management. Parallel to infrastructure-as-code, but for cognitive workflows. Not a product (yet) — just how I work.
+**AI agent system for knowledge work** — A personal software factory: specialized agents with defined roles — product, research, implementation, review — that coordinate to help me build reliable software quickly. Backed by a structured knowledge repository, so agents draw on project context and accumulated decisions, not just the internet and training data.
 
 **[keybr-music](https://github.com/benbogart/keybr-music)** — A fork of [keybr](https://github.com/aradzie/keybr.com) that I'm developing into a music-based typing trainer. My own concept, developed using my software factory — delegated automation with human-in-the-loop where it matters.
 
